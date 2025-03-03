@@ -8,8 +8,8 @@ This project provides a **comprehensive financial analysis** of Costco Wholesale
 
 # **📂 Files Included**
 - **📄 [Costco-Financial-Analysis.xlsx](https://github.com/FrankGalvez-Data/Costco_Financial_Analysis/blob/main/Costco-Financial-Analysis.xlsx)** - Contains all financial data, calculations, and visualizations.    
-- **📁 Screenshots_GIFs/** - Folder with images and gifs showcasing key insights and dashboard views.   
-- **📝 README.md** - This documentation.
+- **📁 [Screenshots_GIFs/](https://github.com/FrankGalvez-Data/Costco_Financial_Analysis/tree/main/Screenshots_GIFs)** - Folder with images and gifs showcasing key insights and dashboard views.   
+- **📝 [README.md](https://github.com/FrankGalvez-Data/Costco_Financial_Analysis/blob/main/README.md)** - This documentation.
 
 # **📌 Key Features**  
 **✅ Financial Statement Analysis:** Examined Costco's Income Statement, Balance Sheet, and Cash Flow Statement.   
