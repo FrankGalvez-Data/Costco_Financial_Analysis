@@ -43,7 +43,7 @@ The project includes a fully interactive Excel dashboard displaying:
 ![image](https://github.com/user-attachments/assets/351e449f-3898-4806-83b0-2286be2ba640)  
 
 **- Debt vs. Equity Structure + D/E Ratio**  
-![debt_vs_equity](https://github.com/user-attachments/assets/5e1794dd-afa4-45c5-919b-c7cab891dc58)
+[![debt_vs_equity](https://github.com/user-attachments/assets/5e1794dd-afa4-45c5-919b-c7cab891dc58)](https://github.com/FrankGalvez-Data/Costco_Financial_Analysis/blob/main/Screenshots_GIFs/debt_vs_equity.gif)
 
 
 **⚙ Tools & Skills Used**  
